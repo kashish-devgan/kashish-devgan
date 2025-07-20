@@ -5,7 +5,7 @@ I'm Kashish Devgan, a passionate developer and tech enthusiast. I love diving in
 
 - I'm a Student at AMITY UNIVEERSITY PUNJAB.
 - pursuing my B.TECH CSE degree.
-- A 20 yrs old Engineering Student who loves to explore different aspects of TECH WORLD.
+- A 21 yrs old Engineering Student who loves to explore different aspects of TECH WORLD.
 
 🔭 I’m currently working on enhancing my proficiency in Web Developmet Languages- JavaScript and React to build more interactive and dynamic web applications.
 
